@@ -1,0 +1,25 @@
+.top_ad {
+	margin: 0 auto;
+	height: 65px;
+	overflow: hidden;
+	background: url(img/b40bcab7-1954-4490-864a-736caa55fa8a.jpg);
+	background-position: center top;
+	position: relative;
+}
+
+.top_ad_a1 {
+	width: 1200px;
+	height: 65px;
+	margin: 0 auto;
+	display: block;
+}
+
+.top_ad_a2 {
+	width: 19px;
+	height: 19px;
+	position: absolute;
+	display: block;
+	background-image: url(img/close_img.png);
+	right: 5px;
+	top: 5px;
+}
